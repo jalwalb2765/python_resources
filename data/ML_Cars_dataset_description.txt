@@ -1,0 +1,22 @@
+aspiration : Aspiration used in a car
+	std	Standard
+	turbo	Turbo
+
+
+enginelocation : Location of the engine on the car
+	front	Front
+	rear	Rear
+
+carwidth : Width of the car
+
+curbweight : Weight of the car
+
+enginetype : Type of engine on the car
+
+cylindernumber : Number of cylinders on the car
+
+stroke : Stroke of the car
+
+peakrpm : Peak RPM of the car
+
+price : Whether the car is considered to be expensive or cheap
